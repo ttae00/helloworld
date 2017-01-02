@@ -2,7 +2,7 @@ package helloworld;
 
 /**
  * 
- * HelloWorld 예제
+ * HelloWorld 예제_업데이트
  * @author 태영
  *
  */
@@ -10,8 +10,11 @@ package helloworld;
 public class HelloWorld {
 
 	public static void main(String[] args) {
+		
+		String s= "hello world";
 		// TODO Auto-generated method stub
-		System.out.println("Hello World");
+		
+		System.out.println(s);
 	}
 
 }
